@@ -12,5 +12,8 @@
 ### BC 003 – Dry Hopping
 ![Braucast 003](https://raw.githubusercontent.com/Braucast/assets/master/designfiles/export/003.png)
 
+### BC 003 – Maischen
+![Braucast 004](https://raw.githubusercontent.com/Braucast/assets/master/designfiles/export/004.png)
+
 # Mehr
 [Braucast.de](https://braucast.de/)
